@@ -15,7 +15,7 @@ Essa aplicação também serve para revisar conceitos ensinados durante o curso 
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/AbnerBarretto/Conversor-de-Moeda-Challenge/tree/master) ou [baixá-lo diretamente como .zip](https://github.com/AbnerBarretto/Conversor-de-Moeda-Challenge/archive/refs/heads/master.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/AbnerBarretto/Conversor-de-Moeda-Challenge/tree/master) ou [baixá-lo diretamente](https://github.com/AbnerBarretto/Conversor-de-Moeda-Challenge/archive/refs/heads/master.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
