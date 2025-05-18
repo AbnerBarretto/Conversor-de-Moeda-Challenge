@@ -19,9 +19,11 @@ Você pode [acessar o código fonte do projeto](https://github.com/AbnerBarretto
 
 ## 🛠️ Abrir e rodar o projeto
 
-- Inicialização do código
-- Escolha das moedas pelo menu
-- Digite a quantidade de dinheiro a ser convertida
+1. Clone ou baixe o repositório
+2. Abra o projeto no IntelliJ IDEA ou outra IDE Java de sua preferência
+3. Execute a classe `Main`
+4. Escolha as moedas desejadas pelo menu
+5. Insira o valor que deseja converter
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
